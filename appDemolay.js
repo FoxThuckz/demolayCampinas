@@ -9,7 +9,7 @@ app.get('/',(req,res)=>{
 })
 
 app.get('/contato',(req, res)=>{
-    res.redirect('https://contate.me/CampinasDemolay');
+    res.redirect('https://contate.me/CpsDemolayq');
 })
 
 app.listen(PORT,()=>{
