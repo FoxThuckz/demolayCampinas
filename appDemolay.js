@@ -4,7 +4,7 @@ const app = express();
 
 const PORT = process.env.PORT || 8878;
 
- app.get('/contato',(req, res)=>{
-     res.redirect('https://contate.me/CampinasDemolay');
+app.listen(PORT,()=>{
+    console.log('Escutandoi'+ PORT);
 })
 
