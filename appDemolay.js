@@ -8,3 +8,7 @@ app.get('/',(req,res)=>{
     res.json({msg:'OK'})
 })
 
+app.listen(PORT,()=>{
+    console.log('Escutando'+ PORT);
+})
+
