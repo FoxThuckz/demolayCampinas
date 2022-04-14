@@ -1,0 +1,24 @@
+{
+  "name": "apidemolay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appDemolay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node appDemolay"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://FoxThuckz@github.com/FoxThuckz/demolayCampinas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FoxThuckz/demolayCampinas/issues"
+  },
+  "homepage": "https://github.com/FoxThuckz/demolayCampinas#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
