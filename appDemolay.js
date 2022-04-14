@@ -8,6 +8,3 @@ const PORT = process.env.PORT || 8878;
      res.redirect('https://contate.me/CampinasDemolay');
 })
 
-//app.listen(PORT,()=>{
-//    console.log('Escutandoi'+ PORT);
-})
