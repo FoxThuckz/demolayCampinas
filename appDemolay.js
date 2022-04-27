@@ -9,7 +9,7 @@ app.get('/',(req,res)=>{
 })
 
 app.get('/contato',(req, res)=>{
-    res.redirect('https://contate.me/CpsDemolayq');
+    res.redirect('https://api.whatsapp.com/send?phone=5519997970327&text=Ol%c3%a1%2c+gostaria+de+conhecer+mais+sobre+a+Ordem+Demolay!');
 })
 
 app.listen(PORT,()=>{
